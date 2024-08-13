@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_hint">请输入用户名</string>
+    <string name="version">1.0</string>
+    <string name="icon">icon</string>
+</resources>
